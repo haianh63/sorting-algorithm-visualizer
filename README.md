@@ -1,8 +1,35 @@
-# React + Vite
+# Sorting Algorithm Visualizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application built with React and Vite to visualize various sorting algorithms 
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Multiple Sorting Algorithms**: Supports Bubble Sort, Merge Sort, Quick Sort, Selection Sort
+- **Visualization**: Animations to show step-by-step sorting process.
+- **Shuffle Array**: Randomly generate a new array.
+
+## Technologies Used
+
+- **React**
+- **Redux**
+- **Framer Motion** 
+
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/haianh63/sorting-algorithm-visualizer
+   ```
+
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+
+3. Start the development server:
+   ```sh
+   npm run dev
+   ```
+
+
+
