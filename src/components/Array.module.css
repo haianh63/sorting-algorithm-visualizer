@@ -1,0 +1,21 @@
+:root {
+  --font-size: 20px;
+}
+
+.arrayUnit {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding-bottom: 10;
+  position: absolute;
+}
+
+.arrayUnitValue {
+  margin: 0;
+  font-weight: bold;
+  font-size: var(--font-size);
+}
+
+.array {
+  position: relative;
+}
